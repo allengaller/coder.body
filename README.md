@@ -1,4 +1,2 @@
-# Fitmonk - better life, better code #
-* aka the coder.body project *
+# Zenfit
 
-A health-care apps for coders.
